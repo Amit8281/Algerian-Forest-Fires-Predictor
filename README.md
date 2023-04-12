@@ -1,4 +1,4 @@
-![alt text](image URL)
+![alt text](https://github.com/Amit8281/Algerian-Forest-Fires-Predictor/blob/main/Deaths-from-Algerian-forest-fires-rise-to-42-.jpg)
 # Algerian Forest Fires Dataset
 This dataset contains weather observations and Fire Weather Index (FWI) data for Algerian forest fires during the months of June to September in the year 2012. The dataset includes the following columns:
 
