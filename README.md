@@ -1,3 +1,4 @@
+![alt text](image URL)
 # Algerian Forest Fires Dataset
 This dataset contains weather observations and Fire Weather Index (FWI) data for Algerian forest fires during the months of June to September in the year 2012. The dataset includes the following columns:
 
